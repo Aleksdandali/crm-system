@@ -1,0 +1,33 @@
+═══════════════════════════════════════════════════════
+   🚀 CRM СИСТЕМА - ГОТОВА К ДЕПЛОЮ
+═══════════════════════════════════════════════════════
+
+📖 ОТКРОЙТЕ ИНСТРУКЦИЮ:
+
+   open ~/crm-system/DEPLOY_INSTRUCTIONS.md
+
+Или в терминале:
+
+   cat ~/crm-system/DEPLOY_INSTRUCTIONS.md
+
+═══════════════════════════════════════════════════════
+
+⚡ БЫСТРЫЙ СТАРТ (3 команды):
+
+1. Загрузить на GitHub:
+   cd ~/crm-system && gh repo create crm-system --public --source=. --push
+
+2. Скопировать SQL для Supabase:
+   cat ~/crm-system/supabase-migrations.sql | pbcopy
+   
+3. Следовать инструкциям в DEPLOY_INSTRUCTIONS.md
+
+═══════════════════════════════════════════════════════
+
+📍 ВАШ ПРОЕКТ SUPABASE:
+   https://supabase.com/dashboard/project/aspcqolpluoyrjfdbrso
+
+═══════════════════════════════════════════════════════
+
+Всё готово! Начинайте деплой! 🎉
+
